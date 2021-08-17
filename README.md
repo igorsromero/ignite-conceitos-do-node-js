@@ -13,8 +13,6 @@ Durante o desenvolvimento foi colocado em pratica conceitos de HTTP, Middleware 
 Nesse desafio, é necessário criar uma aplicação para treinar o que foi aprendido até agora no Node.js.
 Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*.
 
-[Mais informações sobre o desafio podem ser acessadas através deste link.](https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8#dbed5b2fcb0a4b50a41f88b16954a360)
-
 </details>
 
 <details>
